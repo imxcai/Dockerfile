@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER: imxcai <imxcai@gmail.com>
+MAINTAINER imxcai <imxcai@gmail.com>
 ENV REFRESHED_AT 2019-04-29
 
 RUN apt update -yqq
